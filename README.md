@@ -1,10 +1,10 @@
 ## Members
 
-| Github Handle                                             | Student ID |
-| --------------------------------------------------------- | ---------- |
-| <a href="https://github.com/zyferis/">zyferis (Main Dev)</a>     | 2100689    |
-| <a href="https://github.com/Matahhhhh/">Matahhhhh (Algo Dev)</a>   | 2102539    |
-| <a href="https://github.com/NgChaoHong/">Ng Chao Hong (Testing Data Dev)</a> | 2100997    |
+| Github Handle                                             | 
+| --------------------------------------------------------- |
+| <a href="https://github.com/zyferis/">zyferis (Main Dev)</a>     | 
+| <a href="https://github.com/Matahhhhh/">Matahhhhh (Algo Dev)</a>   | 
+| <a href="https://github.com/NgChaoHong/">Ng Chao Hong (Testing Data Dev)</a> | 
 
 ## Mapping Files
 
