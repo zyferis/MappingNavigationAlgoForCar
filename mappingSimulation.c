@@ -565,13 +565,6 @@ void Move() // its an astar/move function
 
 void InitMapping() // generate neighbouring nodes around car currently
 {
-	/* you are now entering the [pyramid] of bad code
-			____
-		   /|[_|\
-		  /_|__|_\
-		 /_/___|__\
-		/_/____|___\
-	   /_/_____|____\    */
 
 	NodeList[0] = createnode();
 	currNode = NodeList[0];
